@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 TELEGRAM_BOT_TOKEN = '7863924085:AAEDdhpC6o_z2OpBqJazUVj59MuOVLkh1fE'
-ADMIN_USER_ID = 1165613821
+ADMIN_USER_ID = 7190046659
 USERS_FILE = 'users.txt'
 
 def load_users():
